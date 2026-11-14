@@ -1,0 +1,2 @@
+# servidor
+squad do minecraft
